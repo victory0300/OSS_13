@@ -129,6 +129,8 @@ Advanced Data Analysis는 텍스트 및 이미지 파일, PDF, 코드 또는 기
 
 ![image](https://github.com/victory0300/OSS_13/assets/166524922/58f12466-c198-4eb8-8905-9044f9c652a2)
 
+출처: https://n.news.naver.com/mnews/article/029/0002813413
+
 
 (2) 머신 러닝: 데이터를 기반으로 모델을 학습시키고 미래의 행동을 예측할 수 있습니다.
 예를 들어 선형 회귀, 의사 결정 나무, K-평균 클러스터링 등의 알고리즘을 사용하여 이루어집니다.
