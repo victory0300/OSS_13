@@ -139,6 +139,11 @@ Advanced Data Analysis는 텍스트 및 이미지 파일, PDF, 코드 또는 기
 
 (4) 자연어 처리(NLP): 텍스트 데이터를 분석하고 이해하는 것입니다. 감정 분석, 텍스트 분류 등을 수행할 수 있습니다.
 
+![image](https://github.com/victory0300/OSS_13/assets/166524922/684c69cd-ab8b-4206-98fc-2b1053aa37a9)
+
+출처: https://blog.naver.com/cobanet/223247123227
+
+
 (5) 멀티미디어 생성 및 편집: GIF 애니메이션 생성, 이미지 편집 및 변환 등의 작업을 간편하게 수행할 수 있습니다.
 
 ③ 활용
